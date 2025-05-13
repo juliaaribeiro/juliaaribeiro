@@ -23,24 +23,25 @@ Olá! Sou estudante de **Sistemas de Informação** na Universidade Federal de L
 
 ## 🔧 Tecnologias e Ferramentas
 
-<table>
-  <tr>
+<table style="width:100%; background-color:#ffe6f0; border-radius:10px; border:1px solid #ffb6c1;">
+  <tr style="background-color:#ffccdd;">
     <td><strong>Linguagens</strong></td>
     <td>Python • C++ • Java (POO) • SQL</td>
   </tr>
-  <tr>
+  <tr style="background-color:#ffe6f0;">
     <td><strong>Frameworks</strong></td>
     <td>Scikit-learn • Pandas • Matplotlib • NumPy</td>
   </tr>
-  <tr>
+  <tr style="background-color:#ffccdd;">
     <td><strong>Bancos de Dados</strong></td>
     <td>MySQL • PostgreSQL</td>
   </tr>
-  <tr>
+  <tr style="background-color:#ffe6f0;">
     <td><strong>Ferramentas</strong></td>
     <td>GitHub • VSCode • Google Colab</td>
   </tr>
 </table>
+
 
 ---
 
