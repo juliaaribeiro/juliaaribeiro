@@ -43,6 +43,7 @@ Olá! Sou estudante de **Sistemas de Informação** na Universidade Federal de L
 </table>
 
 
+
 ---
 
 ## 🧪 Projetos Acadêmicos
