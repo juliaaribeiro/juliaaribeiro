@@ -17,13 +17,6 @@
 
 Olá! Sou estudante de **Sistemas de Informação** na Universidade Federal de Lavras (UFLA), apaixonada por resolver problemas usando **lógica, programação e dados**.
 
-Tenho experiência prática em:
-
-- Desenvolvimento **backend**
-- Implementação de **algoritmos**
-- Manipulação e consulta de **bancos de dados**
-- Projetos com **machine learning**, **estatística** e **POO**
-
 > Busco unir solidez técnica com criatividade — sempre com organização, clareza e um toque pessoal 🌸
 
 ---
