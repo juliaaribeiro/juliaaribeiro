@@ -26,19 +26,19 @@ Olá! Sou estudante de **Sistemas de Informação** na Universidade Federal de L
 <table style="width:100%; background-color:#ffe6f0; border-radius:10px; border:1px solid #ffb6c1;">
   <tr style="background-color:#ffccdd;">
     <td><strong>Linguagens</strong></td>
-    <td>Python • C++ • Java (POO) • SQL</td>
+    <td>Python • C++ • Java (POO) • SQL • JavaScript • PHP </td>
   </tr>
   <tr style="background-color:#ffe6f0;">
     <td><strong>Frameworks</strong></td>
-    <td>Scikit-learn • Pandas • Matplotlib • NumPy</td>
+    <td>Scikit-learn • Pandas • Matplotlib • NumPy • Node.js</td>
   </tr>
   <tr style="background-color:#ffccdd;">
     <td><strong>Bancos de Dados</strong></td>
-    <td>MySQL • PostgreSQL</td>
+    <td>MySQL </td>
   </tr>
   <tr style="background-color:#ffe6f0;">
     <td><strong>Ferramentas</strong></td>
-    <td>GitHub • VSCode • Google Colab</td>
+    <td>GitHub • VSCode • Google Colab • CSS • HTML</td>
   </tr>
 </table>
 
@@ -52,6 +52,7 @@ Olá! Sou estudante de **Sistemas de Informação** na Universidade Federal de L
 - 📊 **Estatística com Python e R** para análise e visualização
 - 🗃️ **Consultas e modelagem SQL** em bancos relacionais
 - 🤖 **Machine Learning com dados estruturados** usando Scikit-learn
+- 🛠️ **Desenvolvimento web** full stack com uso de banco de dados
 
 > Em andamento: pesquisa com aprendizado de máquina aplicada à extração de informação (projeto de iniciação científica com FAPEMIG)
 
